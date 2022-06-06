@@ -26,7 +26,7 @@ export default function Header(){
       <div className="headerContainer">
         <div className="logo">
           <span>
-            <Link to="/">Relic(Raunak Bhetwal)</Link>
+            <Link to="/">Spongly</Link>
           </span>
         </div>
         <div className="headNav">
@@ -38,7 +38,7 @@ export default function Header(){
               
             
             <span>
-              <a href="https://github.com/Re7ic" target="_blank" rel="noreferrer">Github</a>
+              <a href="https://github.com/spongly" target="_blank" rel="noreferrer">Github</a>
             </span>
             <span><a href="mailto:relicrb@gmail.com" target="_blank" rel="noreferrer">Contact</a></span>
           </div>
@@ -56,9 +56,9 @@ export default function Header(){
             <MenuItem><Link to="/">Home</Link></MenuItem>
             
             <MenuItem>
-              <a href="https://github.com/Re7ic">Github</a>
+              <a href="https://github.com/spongly">Github</a>
             </MenuItem>
-            <MenuItem><a href="mailto:relicrb@gmail.com">Contact</a></MenuItem>
+            <MenuItem><a href="mailto:mail.spongly@gmail.com">Contact</a></MenuItem>
           </Menu>
         </div>
       </div>
