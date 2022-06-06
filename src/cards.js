@@ -59,7 +59,7 @@ export const SocialCard = (props)=>{
     e.stopPropagation();
   }
 
-  return (
+ return (
     <div className={"introCard"+props.curState}>
       <div className="circles">
         <div className="navCircle red"></div>
@@ -69,57 +69,57 @@ export const SocialCard = (props)=>{
       <div className="procode">
         <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}><span className="cm-keyword">const</span> <span className="cm-def">socialLinks</span> <span className="cm-operator">=</span> {"{"}</span></pre>
         <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">github</span>: <span className="cm-string">
-          <a className="sociolink" onClick={stoprop} href="https://github.com/Re7ic"
-            target="_blank">"github.com/Re7ic"</a>
+          <a className="sociolink" onClick={stoprop} href="https://github.com/spongly"
+            target="_blank">"github.com/spongly"</a>
         </span>,</span></pre>
         <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">twitter</span>: <span className="cm-string">
-          <a className="sociolink" onClick={stoprop} href="https://twitter.com/elliot_mr1"
-            target="_blank">"twitter.com/elliot"
+          <a className="sociolink" onClick={stoprop} href="https://twitter.com/"
+            target="_blank">"twitter.com"
           </a>
           </span>,</span></pre>
         <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">codeforces</span>: <span className="cm-string">
-          <a className="sociolink" onClick={stoprop} href="..."
-            target="_blank">"..."
+          <a className="sociolink" onClick={stoprop} href="https://codeforces.com"
+            target="_blank">"codeforces.com"
           </a>
         </span>,</span></pre>
         <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">gmail</span>: <span className="cm-string">
-          <a className="sociolink" onClick={stoprop} href="mailto:relicrb@gmail.com"
-            target="_blank">"relicrb@gmail.com"
+          <a className="sociolink" onClick={stoprop} href="mailto:mail.spongly@gmail.com"
+            target="_blank">"mail.spongly@gmail.com"
           </a>
         </span>,</span></pre>
         <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">spotify</span>: <span className="cm-string">
-          <a className="sociolink" onClick={stoprop} href="https://open.spotify.com/user/31laajptvbqtf7wdnnyswwa7rzie"
-            target="_blank">"../user/31laajptvbqtf7wdnnyswwa7rzie"
+          <a className="sociolink" onClick={stoprop} href="https://open.spotify.com"
+            target="_blank">""
           </a>
         </span>,</span></pre>
         <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">behance</span>: <span className="cm-string">
-          <a className="sociolink" onClick={stoprop} href="..."
-            target="_blank">"..."
+          <a className="sociolink" onClick={stoprop} href="https://behance.net/blueedgetechno"
+            target="_blank">"behance.net/blueedgetechno"
           </a>
         </span>,</span></pre>
         <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">codepen</span>: <span className="cm-string">
-          <a className="sociolink" onClick={stoprop} href="..."
-            target="_blank">"..."
+          <a className="sociolink" onClick={stoprop} href="https://codepen.io/blueedgetechno"
+            target="_blank">"codepen.io/blueedgetechno"
           </a>
         </span>,</span></pre>
         <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">dev</span>: <span className="cm-string">
-          <a className="sociolink" onClick={stoprop} href="..."
-            target="_blank">"..."
+          <a className="sociolink" onClick={stoprop} href="https://dev.to/blueedgetechno"
+            target="_blank">"dev.to/blueedgetechno"
           </a>
         </span></span>,</pre>
         <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">stackoverflow</span>: <span className="cm-string">
-          <a className="sociolink" onClick={stoprop} href="..."
-            target="_blank">"..."
+          <a className="sociolink" onClick={stoprop} href="https://stackoverflow.com/users/12115721/blue-edge"
+            target="_blank">"../users/12115721/blue-edge"
           </a>
         </span>,</span></pre>
         <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">discord</span>: <span className="cm-string">
-          <a className="sociolink" onClick={stoprop} href="https://discord.com/users/Relic#7017"
-            target="_blank">"Relic#7017"
+          <a className="sociolink" onClick={stoprop} href="https://discord.com/app"
+            target="_blank">"Blue Edge#1017"
           </a>
         </span></span></pre>
         <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">youtube</span>: <span className="cm-string">
-          <a className="sociolink" onClick={stoprop} href="https://www.youtube.com/channel/UCWWaKpxo9dM1ou4MkXaB3_w"
-            target="_blank">"../channel/UCWWaKpxo9dM1ou4MkXaB3_w"
+          <a className="sociolink" onClick={stoprop} href="https://www.youtube.com/channel/UCozhS3MxzCGrPTffh0mqArw"
+            target="_blank">"../channel/UCozhS3MxzCGrPTffh0mqArw"
           </a>
         </span></span></pre>
         <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}>{"}"}</span></pre>
