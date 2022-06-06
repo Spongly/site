@@ -60,7 +60,7 @@ export const SocialCard = (props)=>{
   }
 
  
-  )
+ 
 }
 
 export const ProjectCard = (props)=>{
