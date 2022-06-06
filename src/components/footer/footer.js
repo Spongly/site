@@ -22,13 +22,13 @@ export default function Footer(){
         </span>
         <div className="socialinks">
           <span>Follow me</span>
-          <a href="https://github.com/Re7ic" target="_blank">
+          <a href="https://github.com/spongly" target="_blank">
             <FontAwesomeIcon icon={faGithub} />
           </a>
-          <a href="https://twitter.com/elliot_mr1" target="_blank">
+          <a href="https://twitter.com/sponglyyy" target="_blank">
             <FontAwesomeIcon icon={faTwitter} />
           </a>
-          <a href="mailto:relicrb@gmail.com" target="_blank">
+          <a href="mailto:mail.spongly@gmail.com" target="_blank">
             <FontAwesomeIcon icon={faEnvelope} />
           </a>
           <a href="https://www.behance.net" target="_blank">
