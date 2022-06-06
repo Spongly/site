@@ -70,7 +70,7 @@ export const ProjectCard = (props)=>{
         <div className="navCircle red"></div>
         <div className="navCircle yellow"></div>
         <div className="navCircle green"></div>
-      </div>
+      
       
      
    
