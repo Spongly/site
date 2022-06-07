@@ -87,39 +87,39 @@ export const SocialCard = (props)=>{
             target="_blank">"Spongly#7257"
           </a>
         </span>,</span></pre>
-        <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">spotify</span>: <span className="cm-string">
-          <a className="sociolink" onClick={stoprop} href="https://open.spotify.com/user/62axxw0etmycj09el078cock0"
-            target="_blank">"../user/62axxw0etmycj09el078cock0"
+        <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">youtube</span>: <span className="cm-string">
+          <a className="sociolink" onClick={stoprop} href="https://www.youtube.com/channel/UCKSQCsh2YR5xiDRjrOubbOg"
+            target="_blank">"../channel/UCKSQCsh2YR5xiDRjrOubbOg"
           </a>
         </span>,</span></pre>
-        <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">behance</span>: <span className="cm-string">
-          <a className="sociolink" onClick={stoprop} href="https://behance.net/blueedgetechno"
-            target="_blank">"behance.net/blueedgetechno"
+        <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property"></span>: <span className="cm-string">
+          <a className="sociolink" onClick={stoprop} href=""
+            target="_blank">""
           </a>
         </span>,</span></pre>
-        <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">codepen</span>: <span className="cm-string">
-          <a className="sociolink" onClick={stoprop} href="https://codepen.io/blueedgetechno"
-            target="_blank">"codepen.io/blueedgetechno"
+        <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property"></span>: <span className="cm-string">
+          <a className="sociolink" onClick={stoprop} href=""
+            target="_blank">""
           </a>
         </span>,</span></pre>
-        <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">dev</span>: <span className="cm-string">
-          <a className="sociolink" onClick={stoprop} href="https://dev.to/blueedgetechno"
-            target="_blank">"dev.to/blueedgetechno"
+        <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property"></span>: <span className="cm-string">
+          <a className="sociolink" onClick={stoprop} href=""
+            target="_blank">""
           </a>
         </span></span>,</pre>
-        <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">stackoverflow</span>: <span className="cm-string">
-          <a className="sociolink" onClick={stoprop} href="https://stackoverflow.com/users/12115721/blue-edge"
-            target="_blank">"../users/12115721/blue-edge"
+        <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property"></span>: <span className="cm-string">
+          <a className="sociolink" onClick={stoprop} href=""
+            target="_blank">""
           </a>
         </span>,</span></pre>
-        <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">discord</span>: <span className="cm-string">
+        <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property"></span>: <span className="cm-string">
           <a className="sociolink" onClick={stoprop} href="https://discord.com/app"
             target="_blank">"Blue Edge#1017"
           </a>
         </span></span></pre>
-        <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">youtube</span>: <span className="cm-string">
-          <a className="sociolink" onClick={stoprop} href="https://www.youtube.com/channel/UCozhS3MxzCGrPTffh0mqArw"
-            target="_blank">"../channel/UCozhS3MxzCGrPTffh0mqArw"
+        <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property"></span>: <span className="cm-string">
+          <a className="sociolink" onClick={stoprop} href=""
+            target="_blank">""
           </a>
         </span></span></pre>
         <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}>{"}"}</span></pre>
