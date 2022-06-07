@@ -40,7 +40,7 @@ export default function Header(){
             <span>
               <a href="https://github.com/spongly" target="_blank" rel="noreferrer">Github</a>
             </span>
-            <span><a href="mailto:relicrb@gmail.com" target="_blank" rel="noreferrer">Contact</a></span>
+            <span><a href="mailto:mail.spongly@gmail.com" target="_blank" rel="noreferrer">Contact</a></span>
           </div>
           <div className="sideBar">
             <DehazeIcon className="sideIcon" onClick={handleClick}/>
