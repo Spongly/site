@@ -70,16 +70,16 @@ export const SocialCard = (props)=>{
         <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}><span className="cm-keyword">const</span> <span className="cm-def">socialLinks</span> <span className="cm-operator">=</span> {"{"}</span></pre>
         <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">github</span>: <span className="cm-string">
           <a className="sociolink" onClick={stoprop} href="https://github.com/spongly"
-            target="_blank">"github.com/blueedgetechno"</a>
+            target="_blank">"github.com/spongly"</a>
         </span>,</span></pre>
         <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">twitter</span>: <span className="cm-string">
           <a className="sociolink" onClick={stoprop} href="https://twitter.com/sponglyyy"
-            target="_blank">"twitter.com/blueedgetechno"
+            target="_blank">"twitter.com/sponglyyy"
           </a>
           </span>,</span></pre>
         <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">gmail</span>: <span className="cm-string">
           <a className="sociolink" onClick={stoprop} href="mailto:blueedgetechno@gmail.com"
-            target="_blank">"codeforces.com/profile/blueedge"
+            target="_blank">"mail.spongly@gmail.com"
           </a>
         </span>,</span></pre>
         <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">discord</span>: <span className="cm-string">
