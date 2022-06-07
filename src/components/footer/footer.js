@@ -28,7 +28,7 @@ export default function Footer(){
           <a href="https://twitter.com/sponglyyy" target="_blank">
             <FontAwesomeIcon icon={faTwitter} />
           </a>
-          <a href="mailto:mail.spongly@gmail.com@gmail.com" target="_blank">
+          <a href="mailto:mail.spongly@gmail.com" target="_blank">
             <FontAwesomeIcon icon={faEnvelope} />
           </a>
           <a href="" target="_blank">
