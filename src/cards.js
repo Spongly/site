@@ -137,7 +137,6 @@ export const ProjectCard = (props)=>{
         <div className="navCircle green"></div>
       </div>
       
-      </div>
-    </div>
-  )
+     
+    
 }
