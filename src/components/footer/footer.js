@@ -18,7 +18,7 @@ export default function Footer(){
     <div className="footer">
       <div className="footCont">
         <span className="copyrightText">
-          Copyright © {new Date().getFullYear()}. Blue Edge. All rights reserved
+          Copyright © {new Date().getFullYear()}. Spongly. All rights reserved
         </span>
         <div className="socialinks">
           <span>Follow me</span>
